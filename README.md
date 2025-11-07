@@ -1,10 +1,4 @@
-Sure — I’ll add your LinkedIn in a clean, professional way, right at the end of the README.
 
-Here is your **updated final README.md** (copy–paste ready):
-
----
-
-````markdown
 # 🌍 AI Translator Pro
 
 AI Translator Pro is a simple, intuitive, and reliable translation tool designed to help you translate **English ↔ Swedish** with ease.  
@@ -45,11 +39,9 @@ It’s great for students, new arrivals in Sweden, professionals, and everyday c
 
 **Main Translator View**
 
-<img width="1910" src="https://github.com/user-attachments/assets/5e397a93-5403-4711-8734-84dfd7442ac6" />
+[<img width="1910" src="https://github.com/user-attachments/assets/5e397a93-5403-4711-8734-84dfd7442ac6" />](https://github.com/thessyrain/ai-translator-app/blob/main/Screenshot%202025-11-07%20134715.png)
 
-**Translation & Voice Output Example**
 
-<img width="1909" src="https://github.com/user-attachments/assets/4d2bfd36-34e3-4279-bc99-ceab9b1ef093" />
 
 ---
 
@@ -146,5 +138,6 @@ You're free to use it, learn from it, adapt it, and share it.
 
 Made with care, curiosity, and a love for language learning.
 **By @thessyrain**
+
 
 
