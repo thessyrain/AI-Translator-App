@@ -30,6 +30,8 @@ Translate text, listen to natural voice output, translate files, and track your 
 
 <img width="1910" height="990" alt="image" src="https://github.com/user-attachments/assets/5e397a93-5403-4711-8734-84dfd7442ac6" />
 
+<img width="1909" height="969" alt="image" src="https://github.com/user-attachments/assets/4d2bfd36-34e3-4279-bc99-ceab9b1ef093" />
+
 
 ---
 
@@ -40,20 +42,21 @@ Translate text, listen to natural voice output, translate files, and track your 
 git clone https://github.com/yourusername/ai-translator-pro.git
 cd ai-translator-pro
 
-### 2. Create a Virtual Environment
+ Create a Virtual Environment
 
 python -m venv .venv
 source .venv/bin/activate   # Linux / macOS
 .venv\Scripts\activate      # Windows
 
-### 3. Install Dependencies 
+ Install Dependencies 
 
 pip install -r requirements.txt
 
 
-### 4. Run the App
+ Run the App
 
 streamlit run app.py
+
 
 
 
