@@ -44,7 +44,7 @@ It’s great for students, new arrivals in Sweden, professionals, and everyday c
 
 **Translation & Voice Output Example**
 
-
+https://github.com/thessyrain/ai-translator-app/blob/main/Translator%20Video.mp4
 
 
 ---
@@ -142,6 +142,7 @@ You're free to use it, learn from it, adapt it, and share it.
 
 Made with care, curiosity, and a love for language learning.
 **By @thessyrain**
+
 
 
 
